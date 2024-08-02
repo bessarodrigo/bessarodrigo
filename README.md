@@ -5,6 +5,8 @@ Bem-vindo ao meu perfil do GitHub!
 - **Medium:** https://medium.com/@reisrodri
 - **Portfólio:** https://sites.google.com/view/rodrigobessa
 
+![Logo do LinkedIn](https://as2.ftcdn.net/v2/jpg/03/96/56/19/1000_F_396561934_t1OwjMZHrVY211bHA5uUEAix0F1SyLci.jpg)
+
 Eu sou **Rodrigo Bessa**, Analista de Business Intelligence com formação em Administração e experiência em Marketing e Vendas. Além de minha paixão por dados, também gosto de música e esportes. Aqui está um pouco mais sobre o que estou fazendo:
 
 - 🔭 Atualmente, estou focado em **projetos de BI** e desenvolvendo um **portfólio de análise de dados com artigos no Medium**. Estou explorando novas ferramentas de visualização, como **Power BI** e **Looker Studio**.

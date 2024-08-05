@@ -15,7 +15,7 @@ Eu sou **Rodrigo Bessa**, Analista de Business Intelligence com formação em Ad
 
 - 💬 Sinta-se à vontade para me perguntar sobre **Business Intelligence**, **Power BI**, **Looker Studio**, **Python**, ou qualquer outro assunto relacionado à análise de dados
 
-- 📫 Como me encontrar: Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/bessarodrigo) ou me enviar um e-mail para [reisrodri@gmail.com](mailto:reisrodri@gmail.com)
+- 📫 Como me encontrar: Você pode me adicionar no [LinkedIn](https://www.linkedin.com/in/bessarodrigo) ou me enviar um e-mail para [reisrodri@gmail.com](mailto:reisrodri@gmail.com)
 
 - ⚡ Curiosidade: Sou músico e toco vários instrumentos, como guitarra, baixo e teclado. Também gosto de jogar futebol
 

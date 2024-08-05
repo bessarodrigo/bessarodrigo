@@ -11,7 +11,7 @@ Eu sou **Rodrigo Bessa**, Analista de Business Intelligence com formação em Ad
 
 - 🌱 No momento, estou aprofundando meus conhecimentos em **Python**, **engenharia de dados** e **SQL**.
 
-- 🤔 Estou buscando otimizar **processos ETL** e ficaria grato por qualquer dica ou recurso que você possa compartilhar!
+- 🤔 Estou estudando **ETL** e ficaria grato por qualquer dica ou recurso que você possa compartilhar!
 
 - 💬 Sinta-se à vontade para me perguntar sobre **Business Intelligence**, **Power BI**, **Looker Studio**, **Python**, ou qualquer outro assunto relacionado à análise de dados.
 

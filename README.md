@@ -6,7 +6,7 @@ Eu sou **Rodrigo Bessa**, Analista de Business Intelligence com formação em Ad
 
 - **Medium:** https://medium.com/@reisrodri
 - **Portfólio:** https://bessarodrigo.github.io/meu_portfolio
-- **About me:**: https://about.me/rodrigobessa
+- **About me:** https://about.me/rodrigobessa
 
 - 🔭 Atualmente, estou focado em **projetos de BI** e desenvolvendo um portfólio de **análise de dados com artigos no Medium** e Dashboards no **Power BI** e **Looker Studio**
 

@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu perfil do GitHub!
 
-Eu sou **Rodrigo Bessa**, Analista de Business Intelligence com formação em Administração e experiência em Marketing e Vendas. Além de minha paixão por dados, também gosto de música e esportes. Aqui está um pouco mais sobre o que estou fazendo:
+Eu sou **Rodrigo Bessa**, Analista de Dados Sênior com formação em Administração e experiência em Marketing e Vendas. Além de minha paixão por dados, também gosto de música e esportes. Aqui está um pouco mais sobre o que estou fazendo:
 
 - **Medium:** https://medium.com/@reisrodri
 - **Portfólio:** https://bessarodrigo.github.io/meu_portfolio
